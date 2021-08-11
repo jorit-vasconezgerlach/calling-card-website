@@ -1,5 +1,5 @@
 # Calling Card Website
-## Addapt For Personal Ese
+## Addapt For Personal Use
 1. Navigate to index.html
 2. Replace my name & information with yours
 3. Its also working if you code more or less &lt;p> tags
